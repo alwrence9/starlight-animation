@@ -3,6 +3,8 @@ Shows a starlight animation written in React. The particles are randomly generat
  
 https://alwrence9.github.io/starlight-animation/
 
+![](https://github.com/alwrence9/starlight-animation/blob/main/videos/demo.gif)
+
 # To build
 ```
 npm i
